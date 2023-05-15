@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [https://t.me/terminatedcode](https://t.me/terminatedcode)
 
-- 📄 Know about my experiences [https://diam-vercel.com](https://diam-vercel.com)
+- 📄 Know about my experiences [https://dima-vercel.com](https://diam-vercel.com)
 
 - ⚡ Fun fact **I think I am a "codeworm".**
 
