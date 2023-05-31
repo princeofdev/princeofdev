@@ -7,13 +7,9 @@
 
 - 🌱 I’m currently learning **LlamaIndex deeply**
 
-- 👨‍💻 All of my projects are available at [https://dima-lovat.vercel.app](https://dima-lovat.vercel.app)
-
 - 💬 Ask me about **chatgpt, llamaindex, langchain, dialogflow and fullstack**
 
 - 📫 How to reach me [https://t.me/terminatedcode](https://t.me/terminatedcode)
-
-- 📄 Know about my experiences [https://dima-lovat.vercel.app](https://dima-lovat.vercel.app)
 
 - ⚡ Fun fact **I think I am a "codeworm".**
 
